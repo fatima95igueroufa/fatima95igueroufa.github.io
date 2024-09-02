@@ -8,3 +8,4 @@ This repository is built step by step in the tutorial.
 It now contains steps for using GitHub.
 
 This is a new line about updating locally the file readme
+  HELLO test
